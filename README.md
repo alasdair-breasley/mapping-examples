@@ -8,7 +8,7 @@ This repo is for showcasing examples of maps I have created, including maps for 
 
 Cartographic Design - A general purpose map of Arran, Scotland [link](./Arran_Map.pdf). 
 
-MDS Dissertation - Maps created as part of my MDS Dissertation: Assessing the Impact of Intercropping on Crop Type Classification Using Combined Multispectral and SAR Satellite Imagery, Nyagatare, Rwanda [link](./MDS_Dissertation_Map_Examples.pdf).
+MDS Dissertation - Maps created as part of my MDS Dissertation: Assessing the Impact of Intercropping on Crop Type Classification Using Combined Multispectral and Synthetic Aperture Radar Satellite Imagery, Nyagatare, Rwanda [link](./MDS_Dissertation_Map_Examples.pdf).
 
 MA Dissertation - Maps created as part of my MA Dissertation: Assessing Flood Risk for a Section of the Bintacan de Ilagan River, Isabela Province, Luzon Island, the Philippines [link](./MA_Dissertation_Map_Examples.pdf).
 
